@@ -7,7 +7,6 @@ const path = require('path')
 const port = 8000
 const UserModel = require('./models/Users')
 
-
 const connectioParams = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
