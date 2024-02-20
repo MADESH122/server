@@ -4,7 +4,7 @@ const multer = require('multer')
 const dbUrl = "mongodb+srv://madeshc129:Sl2AMaWJ4VhToGtx@cluster0.ehrz20r.mongodb.net/userdata?retryWrites=true&w=majority"
 const cors = require('cors')
 const path = require('path')
-const port = 7000
+const port = 8000
 const UserModel = require('./models/Users')
 
 
