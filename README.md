@@ -1,10 +1,10 @@
-<!-- if you want to add any image follow the steps -->
-go to >>Add image page
-Enter name and Password  (*dont forget the name and passowrd*)
-choose a image and Uplode image
+<!-- first signin -->
+create a username and password and >>submit
+After successfully created a Account  
 
+<!-- login -->
+now go to >login  enter usernam and password >login 
 
-<!-- if you want to see your images only follow the steos-->
-go to  >>YourAC
-Enter the name and password (*Enter same name and password* )
-Click submit  
+<!--add a image -->
+now go to > add image and click "choose File" 
+after click uplodeimage if the image was successfully uploaded you will get a alert message
